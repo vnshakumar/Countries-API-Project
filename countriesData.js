@@ -4436,7 +4436,7 @@ export default [
     capital: ['Islamabad'],
     altSpellings: [
       'PK',
-      'Pffffffffffff',
+      'Pākistān',
       'Islamic Republic of Pakistan',
       "Islāmī Jumhūriya'eh Pākistān",
     ],
